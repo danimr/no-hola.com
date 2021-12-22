@@ -2,4 +2,4 @@
 
 Hello!
 
-https://nohello.net/
+https://no-hola.com
