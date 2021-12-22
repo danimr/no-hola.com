@@ -1,5 +1,5 @@
-# No Hello
+# No hola
 
-Hello!
+Hola!
 
 https://no-hola.com
