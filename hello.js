@@ -1,13 +1,13 @@
 // a key map of allowed keys
 var allowedKeys = {
   72: 'h',
-  69: 'e',
-  76: 'l',
   79: 'o',
+  76: 'l',
+  65: 'a',
 };
 
 // the sequence
-var nohelloCode = ['h', 'e', 'l', 'l', 'o'];
+var nohelloCode = ['h', 'o', 'l', 'a'];
 
 // a variable to remember the 'position' the user has reached so far.
 var nohelloCodePosition = 0;
